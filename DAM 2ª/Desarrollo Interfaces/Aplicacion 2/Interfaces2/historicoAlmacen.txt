@@ -1,0 +1,76 @@
+
+Nombre y apellidos = isra
+Dni = 34333
+Fecha de nacimiento  = d MMM y
+Dirección = calle la calle
+Cp = 899999
+Localidad = Madrid
+Teléfono = 90000000
+Estudios finalizados = Grado medio/Superior
+Carnets de conducir
+     Carnet de conducir: No
+     Carnet de carretilla: Si
+     Carnet de camión: No
+Observaciones = más pruebas
+Fecha de alta= 10/11/23
+Registrado por= u812167471_usercandidatos@%
+Nombre y apellidos = isra
+Dni = 43333t
+Fecha de nacimiento  = d MMM y
+Dirección = la calle
+Cp = 344445
+Localidad = Teruel
+Teléfono = 455543
+Estudios finalizados = Primaria
+Carnets de conducir
+     Carnet de conducir: No
+     Carnet de carretilla: Si
+     Carnet de camión: No
+Observaciones = calles
+Fecha de alta= 10/11/23
+Registrado por= u812167471_usercandidatos@%
+Nombre y apellidos = israel
+Dni = 343434
+Fecha de nacimiento  = d MMM y
+Dirección = pruebas
+Cp = 434343
+Localidad = Zaragoza
+Teléfono = 434343
+Estudios finalizados = Secundaria
+Carnets de conducir
+     Carnet de conducir: No
+     Carnet de carretilla: Si
+     Carnet de camión: No
+Observaciones = pruebas
+Fecha de alta= 10/11/23
+Registrado por= u812167471_usercandidatos@%
+Nombre y apellidos = isra
+Dni = 3434343
+Fecha de nacimiento  = d MMM y
+Dirección = fdsafdsa
+Cp = 34343
+Localidad = Madrid
+Teléfono = 343434
+Estudios finalizados = Grado medio/Superior
+Carnets de conducir
+     Carnet de conducir: NO
+     Carnet de carretilla: SI
+     Carnet de camión: NO
+Observaciones = a veces
+Fecha de alta= 10/11/23
+Registrado por= u812167471_usercandidatos@%
+Nombre y apellidos = Isra
+Dni = 3434343
+Fecha de nacimiento  = d MMM y
+Dirección = poiiuuyttr
+Cp = 34343
+Localidad = Huesca
+Teléfono = 434343
+Estudios finalizados = Grado medio/Superior
+Carnets de conducir
+     Carnet de conducir: NO
+     Carnet de carretilla: SI
+     Carnet de camión: NO
+Observaciones = a veces
+Fecha de alta= 10/11/23
+Registrado por= u812167471_usercandidatos@%

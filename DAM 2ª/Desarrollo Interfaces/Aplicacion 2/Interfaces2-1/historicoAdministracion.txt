@@ -1,0 +1,16 @@
+
+Nombre y apellidos = isra
+Dni = 343434
+Fecha de nacimiento  = d MMM y
+Dirección = fdsafde
+Cp = 43434
+Localidad = Zaragoza
+Teléfono = 434343
+Estudios finalizados = Grado medio/Superior
+Nivel en competencias informáticas
+     Tratamiento de texto: Usuario
+     Hojas de cálculo: Medio
+     Internet: Medio
+Observaciones = si
+Fecha de alta= 10/11/23
+Registrado por= u812167471_usercandidatos@%

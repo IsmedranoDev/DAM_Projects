@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=".gradle/8.6/dependencies-accessors/19666b7ee7477488faba75fa6199859f9eeb0a35/sources"/>
+	<classpathentry kind="src" path="app/src/androidTest/java"/>
+	<classpathentry kind="src" path="app/src/main/java"/>
+	<classpathentry kind="src" path="app/src/test/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/processDebugResources/R.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/merged_java_res/debug/mergeDebugJavaResource/base.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/4e81afc1870682f45e5004a3b997fbb8488d7085a7a458cc2ff8db9be1ba49a7_0.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/4e81afc1870682f45e5004a3b997fbb8488d7085a7a458cc2ff8db9be1ba49a7_1.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/4e81afc1870682f45e5004a3b997fbb8488d7085a7a458cc2ff8db9be1ba49a7_2.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/4e81afc1870682f45e5004a3b997fbb8488d7085a7a458cc2ff8db9be1ba49a7_3.jar"/>
+	<classpathentry kind="lib" path="gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-instrument-5.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-instrument-5.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-jcl-5.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-jcl-5.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-jcl-5.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-jdbc-5.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-jdbc-5.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-jdbc-5.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-jms-5.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-jms-5.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-jms-5.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-messaging-5.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-messaging-5.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-messaging-5.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-orm-5.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-orm-5.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-orm-5.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-oxm-5.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-oxm-5.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-oxm-5.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-test-5.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-test-5.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-test-5.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-tx-5.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-tx-5.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-tx-5.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-web-5.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-web-5.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-web-5.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-webflux-5.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-webflux-5.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-webflux-5.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-webmvc-5.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-webmvc-5.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-webmvc-5.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-websocket-5.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-websocket-5.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-websocket-5.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-aop-5.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-aop-5.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-aop-5.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-aspects-5.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-aspects-5.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-aspects-5.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-beans-5.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-beans-5.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-beans-5.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-context-5.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-context-5.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-context-5.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-context-indexer-5.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-context-indexer-5.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-context-indexer-5.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-context-support-5.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-context-support-5.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-context-support-5.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-core-5.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-core-5.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-core-5.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-expression-5.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-expression-5.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-expression-5.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/israelmedrano/eclipse-workspace-spring/spring jar files pildoras/spring-instrument-5.1.4.RELEASE.jar"/>
+	<classpathentry kind="output" path=".gradle/8.6/dependencies-accessors/19666b7ee7477488faba75fa6199859f9eeb0a35/classes"/>
+</classpath>

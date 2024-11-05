@@ -1,0 +1,36 @@
+nombre y apellidos = 2134
+nombre y apellidos = 2134
+nombre y apellidos = 2134
+Dni = 4321
+Fecha de nacimiento  = 2134
+Dirección = 2134
+Cp = 2134
+Localidad = 2134
+Teléfono = 2134
+Estudios finalizados = 2134
+nombre y apellidos = 2134
+nombre y apellidos = 2134
+nombre y apellidos = 2134
+Dni = 4321
+Fecha de nacimiento  = 2134
+Dirección = 2134
+Cp = 2134
+Localidad = 2134
+Teléfono = 2134
+Estudios finalizados = 2134
+
+Nombre y apellidos = 4332
+Dni = 324324324
+Fecha de nacimiento  = d MMM y
+Dirección = 432
+Cp = 432
+Localidad = Huesca
+Teléfono = 432
+Estudios finalizados = Primaria
+Carnets de conducir
+     Carnet de conducir: No
+     Carnet de carretilla: Si
+     Carnet de camión: No
+Observaciones = 432
+Fecha de alta= 10/11/23
+Registrado por= u812167471_usercandidatos@%

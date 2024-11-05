@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="estilo.css">
+  <title>Nombre del Cantante - Página Principal</title>
+</head>
+
+<body>
+
+
+
+  <!-- Cabecera -->
+  <header>
+    <h1>Bob Dylan</h1>
+  </header>
+  <div class="menu">
+    <nav>
+      <ul>
+        <li><a href="index.html">Inicio</a>
+          <ul class="submenu">
+            <li><a href="cancion1.html">Canción 1</a></li>
+            <li><a href="cancion2.html">Canción 2</a></li>
+            <li><a href="cancion3.html">Canción 3</a></li>
+            <li><a href="cancion4.html">Canción 4</a></li>
+            <li><a href="store.html">Comprar</a></li>
+          </ul>
+        </li>
+        <li><a href="discos.html">Discografía</a></li>
+        <li><a href="multimedia.html">Multimedia</a></li>
+        <li><a href="store.html">Tienda</a></li>
+        <li><a href="registro.html">Contacto</a></li>
+      </ul>
+    </nav>
+  </div>
+
+
+
+
+  <!--registro-->
+
+
+
+
+<div class="containerregistro">
+  <h1>Registro</h1>
+  <div>
+    <label for="nombre">Nombre:</label>
+    <input type="text" id="nombre" name="nombre">
+  </div>
+  <div>
+    <label for="apellidos">Apellidos:</label>
+    <input type="text" id="apellidos" name="apellidos">
+  </div>
+  <div>
+    <label for="direccion">Dirección:</label>
+    <input type="text" id="direccion" name="direccion">
+  </div>
+  <div>
+    <label for="ciudad">Ciudad:</label>
+    <select id="ciudad" name="ciudad">
+      <option value="Zaragoza">Zaragoza</option>
+      <option value="Barcelona">Barcelona</option>
+      <option value="Valencia">Valencia</option>
+      <option value="Madrid">Madrid</option>
+    </select>
+  </div>
+  <div>
+    <label for="usuario">Usuario:</label>
+    <input type="text" id="usuario" name="usuario">
+  </div>
+  <div>
+    <label for="contraseña">Contraseña:</label>
+    <input type="password" id="contraseña" name="contraseña">
+  </div>
+<div>
+  <div><h3>Preferencias</h3></div>   
+<div>
+      <input type="checkbox" id="rock" name="preferencias[]" value="rock">
+      <label for="rock">Rock</label>
+      <input type="checkbox" id="folk" name="preferencias[]" value="folk">
+      <label for="folk">Folk</label>
+      <input type="checkbox" id="jazz" name="preferencias[]" value="jazz">
+      <label for="jazz">Jazz</label>
+      <input type="checkbox" id="disco" name="preferencias[]" value="disco">
+      <label for="disco">Disco</label>
+      <input type="checkbox" id="electronica" name="preferencias[]" value="electronica">
+      <label for="electronica">Electronica</label>
+    </div>
+    </div>
+
+
+    <div class="containerregistro" style="display: flex; justify-content: center; flex-direction: row;">
+      <button type="submit">Enviar</button>
+      <button type="reset">Restablecer</button>
+    </div>
+    
+    
+    
+    
+  
+</div>
+
+  <!-- Pie de página -->
+  <div>
+    <footer>
+      <hr>
+      <p><span style="color: #ff2600;">© 2023 Israel
+          Medrano. Tarea de diseño Web .</span></p>
+    </footer>
+  </div>
+</body>
+
+</html>

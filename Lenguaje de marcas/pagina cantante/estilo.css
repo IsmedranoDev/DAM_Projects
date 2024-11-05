@@ -1,0 +1,232 @@
+/* Estilos para el encabezado */
+body {
+  background-image: url(Material_proyecto_uno/ProyectoUno/img/fondo4.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  background-color: aliceblue;
+}
+
+.menu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #333;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  
+}
+
+.menu li {
+  display: inline-block;
+  position: relative;
+}
+
+.submenu {
+  display: none;
+  position: absolute;
+  top: 30px;
+  left: 0;
+  padding: 0;
+  margin: 0;
+  background-color: #333;
+  border: 1px solid #ccc;
+  z-index: 1;
+  
+}
+.submenu li {
+  height: 40px; /* Ajusta la altura según tus necesidades */
+  width: 100px;
+}
+
+.menu li:hover .submenu {
+  display: block;
+}
+
+.menu a {
+  color: #fff;
+  text-decoration: none;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.menu a:hover {
+  background-color: #555;
+}
+
+.container {
+  max-width: 800px;
+  min-width: 750px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: beige;
+  padding: 20px;
+  overflow: auto;
+  text-align: justify;
+}
+
+.containeraudio {
+  max-width: 800px;
+  margin: 0 auto;
+  
+  flex-wrap: wrap;
+  background-color: beige;
+  padding: 20px;
+  overflow: auto;
+ 
+}
+
+
+.containerdiscos {
+  display: flex;
+  justify-content: center;
+  background-color: beige;
+  padding: 20px;
+  flex-wrap: nowrap;
+  text-align: center;
+}
+
+
+.imagenportada{
+  max-width: 50%; 
+  float: right;
+  margin: 0 0 20px 20px;
+  margin-bottom: 20px;
+  clear: both;
+}
+.texto{
+  clear: both;
+  
+}
+
+
+.container h2 {
+  margin-left: 10px;
+}
+
+.contenido{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  clear: both;
+}
+
+
+.destacado {
+  max-width: 800px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: beige;
+  padding: 20px;
+  width: 100%;
+}
+
+
+.destacado img {
+  align-self: right;
+}
+
+hr {
+  border: 5px solid antiquewhite;
+}
+
+.store {
+  max-width: 800px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 5px;
+  justify-content: center;
+  width: 100%;
+}
+
+.producto {
+  max-width: 500px;
+  margin: 10px auto 30px;
+  background-color: antiquewhite;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.precio {
+  text-align: center;
+  margin: 10px;
+  font-size: large;
+  color: red;
+}
+
+.boton_compra {
+  text-align: center;
+  margin: 10px;
+}
+
+.store img {
+  max-width: 500px;
+}
+
+.cancion{
+  color:aliceblue;
+  font-size:16px;
+  text-align: justify;
+}
+
+
+
+h2{
+  color:aliceblue;
+  font-size: 26px;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+footer{
+ text-align: center;
+}
+
+h4 {
+  font-size: 24px;
+  font-weight: bold;
+  border-bottom: 2px solid black;
+}
+  
+.containerregistro {
+  max-width: 800px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: beige;
+  padding: 20px;
+  flex-direction: column;
+  gap: 30px;
+  align-items:baseline;
+}
+
+.containerregistro button {
+  font-size: 20px;
+}
+
+.registroventa {
+  font-size: 22px;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  margin-bottom: 20px;
+  margin-left: 30px;
+  line-height: 35px;
+}
+
+input[type="radio"] {
+  width: 20px;
+  height: 20px;
+}
+  

@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="estilo.css">
+    <!-- Enlace al archivo CSS -->
+    <title>Nombre del Cantante - Página Principal</title>
+  </head>
+  <body>
+
+    
+    <!-- Cabecera -->
+    <header>
+      <h1>Bob Dylan</h1>
+    </header>
+    <div class="menu">
+      <nav>
+        <ul>
+          <li><a href="index.html">Inicio</a>
+            <ul class="submenu">
+              <li><a href="cancion1.html">Canción 1</a></li>
+              <li><a href="cancion2.html">Canción 2</a></li>
+              <li><a href="cancion3.html">Canción 3</a></li>
+              <li><a href="cancion4.html">Canción 4</a></li>
+              <li><a href="store.html">Comprar</a></li>
+            </ul>
+          </li>
+          <li><a href="discos.html">Discografía</a></li>
+          <li><a href="multimedia.html">Multimedia</a></li>
+          <li><a href="store.html">Tienda</a></li>
+          <li><a href="registro.html">Contacto</a></li>
+        </ul>
+      </nav>
+    </div>
+
+
+
+    <!--registro de compra-->
+
+    <div class="containerregistro">
+<h1>Realizar pedido</h1>
+
+<div class="registroventa">
+  <div>
+    <label for="nombre">Nombre</label><br>
+    <input type="text" id="nombre" name="nombre" style="width:200px">
+  </div>
+  <div>
+    <label for="apellidos">Apellidos</label><br>
+    <input type="text" id="apellidos" name="apellidos" style="width: 200px">
+  </div>
+  <div>
+    <label for="direccion">Dirección</label><br>
+    <input type="text" id="direccion" name="direccion" style="width: 400px">
+  </div>
+  <div style="font-size: 16px;">
+    <label style="font-size: 22px;">Forma de pago:</label><br>
+    <label for="Contrarreenbolso">Contrarreenbolso</label>
+    <input type="radio" id="Contrarreenbolso" name="pago" value="Contrarreenbolso">
+    
+    <label for="Transferencia">Transferencia</label>
+    <input type="radio" id="Transferencia" name="pago" value="transferencia">
+    
+    <label for="Tarjeta">Tarjeta</label>
+    <input type="radio" id="Tarjeta" name="pago" value="tarjeta">
+  </div>
+  
+  <div class="containerregistro" style="display: flex; justify-content: center; flex-direction: row;">
+    <button type="submit">Enviar</button>
+    <button type="reset">Restablecer</button>
+  </div>
+  
+</div>
+</div>
+
+
+
+
+
+      <!-- Pie de página -->
+      <div>
+        <footer>
+          <p><span style="color: #ff2600;">© 2023 Israel
+              Medrano. Tarea de diseño Web .</span></p>
+        </footer>
+      </div>
+    </body>
+  </html>
